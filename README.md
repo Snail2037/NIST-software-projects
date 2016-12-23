@@ -15,16 +15,16 @@ Code development for given tasks/assignments that includes a conversion from 'm'
      * Converts a-z to A-Z and A-Z to a-z for the same input that you used for the mM task.
        * Input file = KLSadd.tex
        * Output file = aZoutput.txt
----
+
 ## Pre-Requisites and Execution
 1. Data Input - Input file for both programs must be named as "KLSADD.tex".
 2. Computation - Each of these tasks (mM and aZ) contains two files (The program itself along with the input file.) for its execution, where these are placed in the same Workspace directory. The output file (as mentioned in the Files Information) is created once the program is run.
 3. Execution - The Java software is needed to execute the program.
----
+
 ## Technologies
 * Java programming
   * Software used: Eclipse IDE w/ JDK
 * Reference
   * [Java API Documents](https://docs.oracle.com/javase/7/docs/api/) 
----
+
 
